@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969478826521",
+    "project_id": "easy-reading-a2c7b",
+    "storage_bucket": "easy-reading-a2c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969478826521:android:bc2fef5551f4af8a3e5888",
+        "android_client_info": {
+          "package_name": "com.example.easyreading"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsaawiFDwMIytG7pnMw0BfIKBOVr2aUWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
